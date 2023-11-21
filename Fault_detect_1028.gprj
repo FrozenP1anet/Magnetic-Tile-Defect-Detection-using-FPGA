@@ -1,0 +1,24 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2A-18C" pn="GW2A-LV18PG256C8/I7">gw2a18c-011</Device>
+    <FileList>
+        <File path="src/data_conv.v" type="file.verilog" enable="1"/>
+        <File path="src/fault_detect.v" type="file.verilog" enable="1"/>
+        <File path="src/fault_detect_top.v" type="file.verilog" enable="1"/>
+        <File path="src/fft/fft.v" type="file.verilog" enable="1"/>
+        <File path="src/fft_wrapper.v" type="file.verilog" enable="1"/>
+        <File path="src/fifo_hs/fifo_hs.v" type="file.verilog" enable="1"/>
+        <File path="src/mic_capture.v" type="file.verilog" enable="1"/>
+        <File path="src/mic_driver.v" type="file.verilog" enable="1"/>
+        <File path="src/mic_interface.v" type="file.verilog" enable="1"/>
+        <File path="src/module_top.v" type="file.verilog" enable="1"/>
+        <File path="src/motor_ctrl.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_conv.v" type="file.verilog" enable="0"/>
+        <File path="src/uart_screen_ctrl.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_send.v" type="file.verilog" enable="1"/>
+        <File path="src/Fault_detect_1028.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

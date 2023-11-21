@@ -1,0 +1,289 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/sim
+vdata_conv
+Z0 !s110 1699286087
+!i10b 1
+!s100 54ejRX60N17bVbBRE8@@E1
+Ilzf0Aa>E`[;mTi=aKUM8>1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/sim/uart_screen_ctrl_sim
+w1698890787
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v
+L0 2
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1699286086.783000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfault_detect
+R0
+!i10b 1
+!s100 IK<:[<UM2BeVKHJdPm^R70
+I<D?DHFgJCLK9PXgRKmf?00
+R1
+R2
+w1698892668
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1699286087.089000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v|
+!i113 0
+R4
+vfault_detect_top
+R0
+!i10b 1
+!s100 DCCR5P6lLPVNDhL0;Z3W:3
+IH;Pab5>E>jJD7Q]Snf=FQ1
+R1
+R2
+w1698566515
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1699286087.269000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v|
+!i113 0
+R4
+vFFT_Top
+Z5 !s110 1699286088
+!i10b 1
+!s100 L[D4E5kIRVUZUeShhfgP?0
+Iczo]?`ITW0YjA@Xmllkkn0
+R1
+R2
+w1698566358
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1699286088.727000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo|
+!i113 0
+R4
+n@f@f@t_@top
+vfft_wrapper
+R0
+!i10b 1
+!s100 5dfoamo@6i9PJY4ZOTS:R0
+I6gzBa5I0;3ZX3X?^;Ge6o2
+R1
+R2
+w1698566682
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1699286087.417000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v|
+!i113 0
+R4
+vFIFO_HS_Top
+R5
+!i10b 1
+!s100 C2DE<c9P[ETY@MMV6R^9[2
+I]3LFY7fmWNON]ZMd0:6JP1
+R1
+R2
+w1698542263
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1699286088.869000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo|
+!i113 0
+R4
+n@f@i@f@o_@h@s_@top
+vmic_capture
+R0
+!i10b 1
+!s100 8`miBSj69_]A328=Vbz0Y0
+IC23^Z]N07JT1JF6QY01Sz1
+R1
+R2
+w1698675776
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_capture.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_capture.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1699286087.559000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_capture.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_capture.v|
+!i113 0
+R4
+vmic_driver
+R0
+!i10b 1
+!s100 NSR1Q`l@3l`zF=;EUGfc:3
+I5IYWk05j[4_Tg^6ig5hOI1
+R1
+R2
+w1698727094
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_driver.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_driver.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1699286087.702000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_driver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_driver.v|
+!i113 0
+R4
+vmic_interface
+R0
+!i10b 1
+!s100 OSeZSg^OQ[Jgna>o0Weo81
+IXVebM]=;R2@8jzzAJNA[E3
+R1
+R2
+w1698543131
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1699286087.823000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v|
+!i113 0
+R4
+vmodule_top
+R0
+!i10b 1
+!s100 N;V^ZTC9?4Ua9i7E9;olJ1
+IaRzj]>_:oDLlf??[n@SaA1
+R1
+R2
+w1699283655
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1699286087.978000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v|
+!i113 0
+R4
+vmotor_ctrl
+R5
+!i10b 1
+!s100 2mf]3cLzXLCl]3F;zZ]Oc2
+IkcgDaBjz>?>NG7>8:I6N:2
+R1
+R2
+w1698911583
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/motor_ctrl.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/motor_ctrl.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1699286088.166000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/motor_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/motor_ctrl.v|
+!i113 0
+R4
+vuart_screen_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 =XN3N:KzbQknjdj5[7;@O3
+ITH=0gPMIIkNNmS;B24DMe0
+R2
+w1699284437
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_screen_ctrl.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_screen_ctrl.v
+L0 1
+R3
+!s108 1699286088.308000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_screen_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_screen_ctrl.v|
+!i113 0
+R4
+vuart_screen_ctrl_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 bQXa01n^_OZdV=zkEZZSg0
+IS8mSI58i:goj5FM?_DMfZ3
+R2
+w1699286130
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v
+L0 2
+R3
+!s108 1699286134.479000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v|
+!i113 0
+R4
+vuart_send
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5WAo@1l;QNCIN^4H0JFFb0
+IENMU2nI0=7RM=kga5h@B^3
+R2
+w1697421752
+8C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v
+FC:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v
+L0 23
+R3
+!s108 1699286088.448000
+!s107 C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v|
+!i113 0
+R4

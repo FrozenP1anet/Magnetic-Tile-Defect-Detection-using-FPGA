@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18C" package="PBGA256" speed="8" partNumber="GW2A-LV18PG256C8/I7"/>
+    <FileList>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\data_conv.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect_top.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft_wrapper.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fifo_hs\fifo_hs.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_capture.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_driver.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_interface.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\module_top.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\motor_ctrl.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_screen_ctrl.v" type="verilog"/>
+        <File path="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_send.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

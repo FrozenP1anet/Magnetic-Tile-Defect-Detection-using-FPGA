@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028.vg"
+Parsing netlist file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\Fault_detect_1028.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\Fault_detect_1028.power.html" completed
+Generate file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\Fault_detect_1028.pin.html" completed
+Generate file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\Fault_detect_1028.rpt.html" completed
+Generate file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\Fault_detect_1028.rpt.txt" completed
+Generate file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\Fault_detect_1028.tr.html" completed
+Tue Nov 07 21:34:53 2023
+

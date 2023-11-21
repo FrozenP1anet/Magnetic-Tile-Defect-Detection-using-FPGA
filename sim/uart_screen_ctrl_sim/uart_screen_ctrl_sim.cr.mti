@@ -1,0 +1,57 @@
+C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fft_wrapper
+
+Top level modules:
+	fft_wrapper
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fault_detect
+
+Top level modules:
+	fault_detect
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module uart_send
+
+Top level modules:
+	uart_send
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fault_detect_top
+
+Top level modules:
+	fault_detect_top
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module data_conv
+
+Top level modules:
+	data_conv
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/tb/uart_screen_ctrl_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module uart_screen_ctrl_tb
+
+Top level modules:
+	uart_screen_ctrl_tb
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.vo
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FIFO_HS_Top
+
+Top level modules:
+	FIFO_HS_Top
+
+} {} {}} C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo {1 {vlog -work work -vopt -stats=none C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.vo
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FFT_Top
+
+Top level modules:
+	FFT_Top
+
+} {} {}}

@@ -1,0 +1,12 @@
+-d C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028.vg
+-p GW2A-18C-PBGA256-8
+-pn GW2A-LV18PG256C8/I7
+-cst C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\Fault_detect_1028.cst
+-cfg C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

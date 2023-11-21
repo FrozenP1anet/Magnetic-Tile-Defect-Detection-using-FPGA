@@ -1,0 +1,69 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\data_conv.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect_top.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft_wrapper.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fifo_hs\fifo_hs.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_capture.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_driver.v'
+Undeclared symbol 'rst_i', assumed default net type 'wire'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_driver.v":15)
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_interface.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\module_top.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\motor_ctrl.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_screen_ctrl.v'
+Analyzing Verilog file 'C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_send.v'
+Compiling module 'module_top'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\module_top.v":1)
+WARN  (EX3779) : 'mic_active' should be on the sensitivity list. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\module_top.v":50)
+WARN  (EX2420) : Latch inferred for net 'mic_active'; We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\module_top.v":52)
+Compiling module 'mic_interface'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_interface.v":2)
+Compiling module 'mic_driver'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_driver.v":2)
+Compiling module 'data_conv'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\data_conv.v":2)
+Compiling module 'mic_capture'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\mic_capture.v":2)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fifo_hs\fifo_hs.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fifo_hs\fifo_hs.v":0)
+Compiling module 'fault_detect_top'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect_top.v":1)
+Compiling module 'fft_wrapper'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft_wrapper.v":1)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module '**'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fft\fft.v":0)
+Compiling module 'fault_detect'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\fault_detect.v":1)
+Compiling module 'motor_ctrl'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\motor_ctrl.v":2)
+Compiling module 'uart_screen_ctrl'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_screen_ctrl.v":2)
+Compiling module 'uart_send(CLK_FREQ=27000000)'("C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\src\uart_send.v":23)
+NOTE  (EX0101) : Current top module is "module_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028.vg" completed
+[100%] Generate report file "C:\Users\xn173\Desktop\FPGA_Compitition\Gowin_FPGA\FPGA_proj\Fault_detect_1028\impl\gwsynthesis\Fault_detect_1028_syn.rpt.html" completed
+GowinSynthesis finish

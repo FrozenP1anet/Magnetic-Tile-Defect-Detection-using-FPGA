@@ -1,0 +1,98 @@
+[
+ {
+  "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v",
+  "InstLine" : 23,
+  "InstName" : "uart_send",
+  "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/uart_send.v",
+  "ModuleLine" : 23,
+  "ModuleName" : "uart_send"
+ },
+ {
+  "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+  "InstLine" : 1,
+  "InstName" : "module_top",
+  "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "module_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+    "InstLine" : 101,
+    "InstName" : "u_FIFO",
+    "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fifo_hs/fifo_hs.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "FIFO_HS_Top"
+   },
+   {
+    "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+    "InstLine" : 82,
+    "InstName" : "u_mic_interface",
+    "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "mic_interface",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v",
+      "InstLine" : 13,
+      "InstName" : "u_mic_driver",
+      "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_driver.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "mic_driver"
+     },
+     {
+      "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_interface.v",
+      "InstLine" : 21,
+      "InstName" : "u_data_conv",
+      "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/data_conv.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "data_conv"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+    "InstLine" : 93,
+    "InstName" : "u_mic_capture",
+    "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/mic_capture.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "mic_capture"
+   },
+   {
+    "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/module_top.v",
+    "InstLine" : 113,
+    "InstName" : "u_fault_detect_top",
+    "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "fault_detect_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v",
+      "InstLine" : 13,
+      "InstName" : "u_fft_wrapper",
+      "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "fft_wrapper",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft_wrapper.v",
+        "InstLine" : 69,
+        "InstName" : "u_fft",
+        "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fft/fft.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "FFT_Top"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect_top.v",
+      "InstLine" : 22,
+      "InstName" : "u_fault_detect",
+      "ModuleFile" : "C:/Users/xn173/Desktop/FPGA_Compitition/Gowin_FPGA/FPGA_proj/Fault_detect_1028/src/fault_detect.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "fault_detect"
+     }
+    ]
+   }
+  ]
+ }
+]

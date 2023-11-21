@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="module_top" Register="67" Alu="12" Lut="94" Bsram="2">
+    <SubModule name="u_mic_interface">
+        <SubModule name="u_mic_driver" Register="12" Lut="15"/>
+        <SubModule name="u_data_conv" Register="47" Alu="19" Lut="40"/>
+    </SubModule>
+    <SubModule name="u_mic_capture" Register="9" Lut="19"/>
+    <SubModule name="u_fault_detect_top">
+        <SubModule name="u_fft_wrapper" Register="250" Alu="108" Lut="652" Dsp="3" Bsram="16"/>
+        <SubModule name="u_fault_detect" Register="42" Alu="17" Lut="51"/>
+    </SubModule>
+    <SubModule name="u_motor_ctrl" Register="73" Alu="10" Lut="141"/>
+    <SubModule name="u_uart_screen_ctrl" Register="71" Alu="11" Lut="254">
+        <SubModule name="u_uart_send" Register="28" Lut="52"/>
+    </SubModule>
+</Module>
